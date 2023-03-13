@@ -1,1 +1,2 @@
 # passwordgen
+the readme asked for the option to put change upper or lower or add symbols so i had to start by adding in those variables and creating a fuction that would selcet ther correct value for the upper case or lowercas number. once the list was made we hada otr create a funstion that would combine all of the fulfilled checkboxes and create a password based on the selection. other than the java script changes there were no other changes or coded need.
